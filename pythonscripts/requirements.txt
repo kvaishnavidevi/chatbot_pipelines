@@ -1,0 +1,8 @@
+Psycopg2
+Shutil
+Configparser
+Dash
+Sqlalchemy
+Plotly
+Wordcloud
+cryptography
