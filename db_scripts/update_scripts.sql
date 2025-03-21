@@ -1,0 +1,10 @@
+update ai_conversations set conv_userid = 'user1' where conv_id in  ('conv1','conv2', 'conv3', 'conv4', 'conv5', 'conv6', 'conv7', 'conv8', 'conv9', 'conv10');
+update ai_conversations set conv_userid = 'user2' where conv_id in  ('conv11','conv12', 'conv13', 'conv14', 'conv15', 'conv16', 'conv17', 'conv18', 'conv19', 'conv20');
+update ai_conversations set conv_userid = 'user3' where conv_id in  ('conv21','conv22', 'conv23', 'conv24', 'conv25', 'conv26', 'conv27', 'conv28', 'conv29', 'conv30');
+update ai_conversations set conv_userid = 'user4' where conv_id in  ('conv31','conv32', 'conv33', 'conv34', 'conv35', 'conv36', 'conv37', 'conv38', 'conv39', 'conv40');
+update ai_conversations set conv_userid = 'user5' where conv_id in  ('conv41','conv42', 'conv43', 'conv44', 'conv45', 'conv46', 'conv47', 'conv48', 'conv49', 'conv50');
+update ai_conversations set conv_userid = 'user6' where conv_id in  ('conv51','conv52', 'conv53', 'conv54', 'conv55', 'conv56', 'conv57', 'conv58', 'conv59', 'conv60');
+update ai_conversations set conv_userid = 'user7' where conv_id in  ('conv61','conv62', 'conv63', 'conv64', 'conv65', 'conv66', 'conv67', 'conv68', 'conv69', 'conv70');
+update ai_conversations set conv_userid = 'user8' where conv_id in  ('conv71','conv72', 'conv73', 'conv74', 'conv75', 'conv76', 'conv77', 'conv78', 'conv79', 'conv80');
+update ai_conversations set conv_userid = 'user9' where conv_id in  ('conv81','conv82', 'conv83', 'conv84', 'conv85', 'conv86', 'conv87', 'conv88', 'conv89', 'conv90');
+update ai_conversations set conv_userid = 'user10' where conv_id in  ('conv91','conv92', 'conv93', 'conv94', 'conv95', 'conv96', 'conv97', 'conv98', 'conv99', 'conv100');
